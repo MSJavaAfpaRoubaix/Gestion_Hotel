@@ -16,10 +16,9 @@ Vous allez créer votre première application Java qui va vous permettre de visu
 #### Vous disposez des tableaux TabPrix et TabDescript pour réaliser votre application :
 
 TabPrix est un tableau à deux dimensions qui permet de donner le prix d'une chambre en fonction de sa capacité d'accueil (le nombre de personnes pouvant occuper la chambre) et de sa catégorie. Chaque cellule du tableau contient le prix de la chambre. Contenu de TabPrix :
-
 ![alt text](http://isabelle.thieblemont.pagesperso-orange.fr/java/ecrans/tabprix.jpg?raw=true)
 
 Remarque : Lorsque TabPrix(NbPersonnes, N° Catégorie) = 0, cela signifie qu'il n'y a pas de chambre correspondant à la combinaison nombre de personnes/catégorie.
 
-TabDescript est un tableau à une dimension qui permet de donner la description d'un chambre en fonction de sa catégorie, il contient les éléments suivants ![alt text](http://isabelle.thieblemont.pagesperso-orange.fr/java/ecrans/descript.jpg?raw=true)
-
+TabDescript est un tableau à une dimension qui permet de donner la description d'un chambre en fonction de sa catégorie, il contient les éléments suivants 
+![alt text](http://isabelle.thieblemont.pagesperso-orange.fr/java/ecrans/descript.jpg?raw=true)
